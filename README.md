@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesseumetoma
 - 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning MEVN
+- 🌱 I’m currently learning HTML,CSS,Vue Js,Express Js and MongoDB
 
 
 <!---
