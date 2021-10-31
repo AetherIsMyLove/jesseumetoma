@@ -1,5 +1,7 @@
 # I am Jesse, a web developers =)))))))
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=jesseumetoma&label=Profile%20views&color%20=%200e75b6%20&%20style%20=%20flat
+ "alt ="hellsnakes"/> </p>
 
 ## My knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -21,21 +23,12 @@
 ## Text editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## My Luv <3 
+## Contact Me
 
-<p align="center">
- <img src="https://i.pinimg.com/736x/c5/f7/c3/c5f7c3a649ccf93053c764b6865c3145.jpg">
-</p>
-<p align="center">
- <img src="https://i.pinimg.com/474x/99/30/83/9930830f0b8bb94a4b4398dfd7709fec.jpg">
-</p>
-<p align="center">
- <img src="https://64.media.tumblr.com/0e8cfb4fb843977c39184e9cb52d2175/764880e63d39b93c-a7/s400x600/bcd519ffdf6a851a9a1e6229de286c67ce52bf16.png">
-</p>
-<p align="center">
- <img src="https://scontent.fhph1-3.fna.fbcdn.net/v/t39.30808-6/245010655_291269512812428_7199531431707933713_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ssvkHbwTi3sAX89UDkk&_nc_ht=scontent.fhph1-3.fna&oh=d3a661313094a2cc2843586b9eeda039&oe=61833328">
-</p>
-<h3 align="center">And Moreeeeeeeeeeeeeeeeeeee.............</h3> 
+## My OTP and Bias <3 
+.......
+
+
 
 <!---
 jesseumetoma/jesseumetoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
