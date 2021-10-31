@@ -1,7 +1,6 @@
 # I am Jesse, a web developers =)))))))
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
-<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnake&label=Profile%20views&color%20=%200e75b6%20&%20style%20=%20flat
- "alt ="hellsnakes"/> </p>
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=hellsnakes&label=Profile%20views&color = 0e75b6 & style = flat "alt ="hellsnakes"/> </p>
 
 ## My knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
