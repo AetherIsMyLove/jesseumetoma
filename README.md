@@ -1,6 +1,8 @@
 # I am Jesse, a web developers =)))))))
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
 <p align = "center"> <img src = "https://komarev.com/ghpvc/?username=jesseumetoma&label=Profile%20views&color = 0e75b6 & style = flat "alt ="hellsnakes"/> </p>
+<img src="https://static.wikia.nocookie.net/shipping/images/b/be/EotF2pgU0AENs7n.jpg/revision/latest?cb=20201212042955" style="width:100%">
+
 
 ## My knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -28,8 +30,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br>
 
-## My Biggest OTP <3 
-<img src="https://static.wikia.nocookie.net/shipping/images/b/be/EotF2pgU0AENs7n.jpg/revision/latest?cb=20201212042955" style="width:100%">
 
 
 
