@@ -27,8 +27,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br>
 
-## My OTP and Bias <3 
-.......
+## My Biggest OTP <3 
+<img src="https://static.wikia.nocookie.net/shipping/images/b/be/EotF2pgU0AENs7n.jpg/revision/latest?cb=20201212042955" style="width:100%">
 
 
 
