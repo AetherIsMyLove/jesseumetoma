@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @jesseumetoma
-- 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning HTML,CSS,Vue Js,Express Js and MongoDB
+# I am Jesse, a web developers =)))))))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
+
+## My knowledge
+![HTML5]
+![CSS3]
+
 
 
 <!---
