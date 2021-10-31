@@ -24,7 +24,7 @@
 ## My Luv <3 
 
 <p align="center">
-  <img src="https://scontent.fhph1-1.fna.fbcdn.net/v/t1.6435-9/243123367_233088245502135_1443835102993901977_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=EOy80R1zhJwAX_Gj8En&_nc_ht=scontent.fhph1-1.fna&oh=32978d3fc69c90d70461427a340cc0e6&oe=61A27511" style="border-radius:50%">
+ <img src="https://i.pinimg.com/736x/c5/f7/c3/c5f7c3a649ccf93053c764b6865c3145.jpg">
 </p>
 
 <!---
