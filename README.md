@@ -26,7 +26,7 @@
 <p align="center">
  <img src="https://i.pinimg.com/736x/c5/f7/c3/c5f7c3a649ccf93053c764b6865c3145.jpg">
 </p>
-<p>
+<p align="center">
  <img src="https://i.pinimg.com/474x/99/30/83/9930830f0b8bb94a4b4398dfd7709fec.jpg">
 </p>
 
